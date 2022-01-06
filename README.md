@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I'm a self-taught Full Stack Developer with 6 years of professional experience, particularly in using TypeScript, React, Apollo, Node.js, and Postgres. I have a great passion for writing readable and maintainable code. As a developer, we are using more time to read the code instead of writing a code so I believe that writing a descriptive and easy to understand code makes our development process faster and and effective. Another thing I truly care about is I always use a collaborative communication and a cheerful, positive approach to discuss properly with whom I'm working with.
+I'm a self-taught Full Stack Developer with 6 years of professional experience. I have a great passion for writing readable and maintainable code. As a developer, we are using more time to read the code instead of writing a code so I believe that writing a descriptive and easy to understand code makes our development process faster and and effective. Another thing I truly care about is I always use a collaborative communication and a cheerful, positive approach to discuss properly with whom I'm working with.
 
 
 ## 💼 Skills
