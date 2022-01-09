@@ -16,6 +16,7 @@ CSS
 Javascript
 Typescript
 React.js
+Jest
 GraphQL
 Postgresql
 Docker
