@@ -9,17 +9,20 @@ I'm a self-taught Full Stack Developer with 6 years of professional experience. 
 
 ## 📌 Skills
 
-<img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
-<img alt="css3" src="https://img.icons8.com/color/48/undefined/css3.png"/>
-<img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
-<img alt="typescript" src="https://img.icons8.com/color/48/undefined/typescript.png"/>
-<img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
-<img alt="jest" src="./images/jest.png" width="40" height="40"/>
-<img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
-<img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
-<img alt="docker" src="https://img.icons8.com/fluency/48/undefined/docker.png"/>
-<img alt="amazon-web-services" src="https://img.icons8.com/color/48/undefined/amazon-web-services.png"/>
-<img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+<p align="left"> 
+  <img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+  <img alt="css3" src="https://img.icons8.com/color/48/undefined/css3.png"/>
+  <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+  <img alt="typescript" src="https://img.icons8.com/color/48/undefined/typescript.png"/>
+  <img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
+  <img alt="jest" src="./images/jest.png" width="40" height="40"/>
+  <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
+  <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
+  <img alt="docker" src="https://img.icons8.com/fluency/48/undefined/docker.png"/>
+  <img alt="amazon-web-services" src="https://img.icons8.com/color/48/undefined/amazon-web-services.png"/>
+  <img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+</p>
+
 <br />
 <br />
 
