@@ -15,7 +15,9 @@ I'm a self-taught Full Stack Developer with 6 years of professional experience. 
   <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
   <img alt="typescript" src="https://img.icons8.com/color/48/undefined/typescript.png"/>
   <img alt="react" src="https://img.icons8.com/office/40/undefined/react.png"/>
+  <img alt="storybook" src="./images/storybook.svg" width="40" height="40"/>
   <img alt="jest" src="./images/jest.png" width="40" height="40"/>
+  <img alt="testing-library" src="./images/testing-library.svg" width="40" height="40"/>
   <img alt="graphql" src="https://img.icons8.com/color/48/undefined/graphql.png"/>
   <img alt="postgresql" src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
   <img alt="docker" src="https://img.icons8.com/fluency/48/undefined/docker.png"/>
