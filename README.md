@@ -1,5 +1,4 @@
-[![Ryo's GitHub Banner](./images/ryotogashi.png)](https://ryotogashi.com)
-[![Visits Badge](https://badges.pufler.dev/visits/ryonryon/ryonryon)](https://ryotogashi.com)
+[![Ryo's GitHub Banner](./images/ryotogashi.png)](https://github.com/ryonryon)
 
 ### Hi there 👋
 
