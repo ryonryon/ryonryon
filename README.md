@@ -29,14 +29,35 @@ I'm a self-taught Full Stack Developer with 6 years of professional experience. 
 
 ## 💼 Experience
 
+### Software Developer
+
+Paystone / Vancouver (Remote) / 2022 - Present
+Developed and delivered Nicejob that helps businesses improve their online reputation
+
+- Implemented frontend components and pages using TypeScript, React, and Apollo Client, ensuring code quality and adherence to best practices.
+- Achieved high coverage of unit tests using Jest, ensuring comprehensive and reliable test coverage for the codebase.
+- Implemented Apollo Graphql queries, mutations, and subscriptions to enhance data fetching and real-time updates in the application.
+- Reviewed and led frontend epics, collaborating with cross-functional teams to define requirements, prioritize tasks, and deliver high-quality features on schedule.
+- Presented new product features in product teams meetings, effectively communicating technical details and gathering feedback from stakeholders.
+- Planned and wrote epics and documentations as needed, documenting technical specifications and coordinating with product leaders and designers for seamless project execution.
+- Acted as an on-call developer, promptly resolving product bugs and issues to ensure a smooth user experience and minimize downtime.
+
+Technology used: HTML, CSS, JavaScript, TypeScript, React.js, styled-component, Storybook, Apollo Graphql, Google Cloud Platform
+
+<br />
+
 ### Full-Stack Web Developer
 
-Vidigami / Vancouver / 2020 - Present
-Developed and delivered fully new version of a school photo management PWA.
+Vidigami / Vancouver / 2020 - 2022
+Developed and delivered Vidigami, new version of a school photo management PWA.
 
 - Designed and implemented main components of the app such as Lightbox, Global Search, Photo Gallery.
 - Carried out Storybook to team to improve collaboration with design team and development cycle.
 - Led back-end GraphQL api and gave code review and mentored junior developers.
+
+Technology used: HTML, CSS, JavaScript, TypeScript, React.js, styled-component, Storybook, Apollo Graphql, AWS
+
+<br />
 
 ### Full-Stack Web Developer
 
@@ -46,12 +67,16 @@ Designed and implemented the admin and management part of a mass retailer system
 - Represented Fujitsu's team in a different city and worked closely with the user.
 - Led a small team that was responsible for the user interface and server-side to efficiently code, test, and release an agile base change.
 
+<br />
+
 ### IT Analyst / IT Consultant
 
 Avanade / Tokyo / 2016 - 2017
 Implemented and customized Microsoft SharePoint online from existing on-premise Microsoft SharePoint.
 
 - Worked closely with our UI/UX designer and Accenture's management team.
+
+<br />
 
 ### Full-Stack Web Developer
 
@@ -61,18 +86,6 @@ Designed and implemented the payable part of an accounts syste.
 - Represented the client for discussing design and implementing new functions.
 
 <br />
-<br />
-
-## Projects
-
-<a href="https://github.com/ryonryon/trello-clone">
- Trello clone
-</a>
-<br />
-
-<a href="https://github.com/agnosticful/chipstackoverflow-web">
- chipstackoverflow
-</a>
 
 <br />
 <br />
